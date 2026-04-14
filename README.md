@@ -24,17 +24,14 @@ Passionate about **gameplay mechanics**, **AI behavior**, and **optimized code**
 ### **🔫 Zombie Shooter (Unity/C#)**
 - **Solo project**: A **3rd-person zombie shooter** with AI enemies using **FSM** and **A* pathfinding**.
 - **Optimization**: Managed **100+ entities** without performance drops.
-- [![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=flat&logo=youtube)](LIEN_YOUTUBE_OU_GIF)
 
 ### **🤖 Rise of Bahiu (Unreal Engine/C++)**
 - **Team project (7 months)**: A **dynamic racing/exploration game** with **AI-driven opponents** (3D camera integration).
 - **Role**: AI & Gameplay Programmer.
-- [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](LIEN_GITHUB)
 
 ### **🎯 Overdose (Unreal Engine/C++)**
 - **Team project (2 months)**: A **multiplayer arena game** with **UI/UX feedback systems**.
 - **Role**: Gameplay & UI Programmer.
-- [![Play Demo](https://img.shields.io/badge/Play-Demo-blue?style=flat&logo=unrealengine)](LIEN_DEMO)
 
 ---
 
