@@ -47,6 +47,7 @@ Passionate about **gameplay mechanics**, **AI behavior**, and **optimized code**
 
 ## 🎯 **What I’m Looking For**
 I’m seeking a **Junior Gameplay Programmer** or **AI Programmer** position in a **game studio** where I can:
+
 ✅ Contribute to **innovative gameplay mechanics**
 ✅ Work on **AI behaviors** (FSM, BT, pathfinding)
 ✅ Optimize and **debug** game systems
