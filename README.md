@@ -1,7 +1,6 @@
 # 🎮 Junior Gameplay Programmer & AI Specialist | Unity/C# & Unreal Engine/C++
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](TON_LIEN_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](TON_LIEN_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olivier-martin-5b327215b/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mart.oliver9@gmail.com)
 
 Passionate about **gameplay mechanics**, **AI behavior**, and **optimized code**, I'm a **Junior Gameplay Programmer** with hands-on experience in **Unity (C#)** and **Unreal Engine (C++)**. I love crafting immersive player experiences and solving technical challenges in game development.
@@ -13,33 +12,11 @@ Passionate about **gameplay mechanics**, **AI behavior**, and **optimized code**
 - **Engines**: Unity (C#), Unreal Engine (C++/Blueprints)
 - **Gameplay**: 3C (Character, Camera, Controls), AI (FSM, Behavior Trees), State Machines
 - **Tools**: Git, GitHub, Perforce (P4V), Debugging, Optimization
-- **Soft Skills**: Team collaboration, Agile/Scrum, Problem-solving, Communication
+- **Soft Skills**: Team collaboration, Problem-solving, Communication
 
 ### **Languages**
 - **French**: Native
 - **English**: Fluent (technical & professional)
-
----
-
-## 🎓 **Education**
-### **Bachelor Game Tech & AI** | *Objectif 3D (Montpellier)*
-*2023 – 2026*
-- Specialized in **gameplay programming** and **AI** for video games.
-
-### **DUT Electrical Engineering & Industrial IT** | *University of Toulon*
-*2016 – 2019*
-- Focus on **energy systems**, **embedded programming**, and **sustainable development**.
-
----
-
-## 💼 **Professional Experience**
-### **Technico-Commercial** | *Aircodis (Six-Fours-les-Plages)*
-*2020 – 2022*
-- Managed **client relationships** and **technical sales** in the aeronautics sector.
-
-### **Energy Efficiency Intern** | *SAVIEL (Saint-Herblain)*
-*2018 – 2019*
-- Developed **energy-saving solutions** for industrial systems.
 
 ---
 
@@ -80,13 +57,12 @@ I’m seeking a **Junior Gameplay Programmer** or **AI Programmer** position in 
 ## 📫 **Let’s Connect!**
 I’m open to **internships, collaborations, or job opportunities** in game development.
 📧 **Email**: [mart.oliver9@gmail.com](mailto:mart.oliver9@gmail.com)
-🔗 **LinkedIn**: [Your LinkedIn](TON_LIEN_LINKEDIN)
-🌐 **Portfolio**: [Your Portfolio](TON_LIEN_PORTFOLIO)
+🔗 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/olivier-martin-5b327215b/)
 
 ---
 
 ### 🎮 **Fun Fact**
-When I’m not coding, I’m **climbing rocks**, playing **cinema-themed board games**, or jamming on my **drums**!
+When I’m not coding, I’m **climbing rocks**, playing **board games**, eating popcorn while **watching movies**, or jamming on my **drums**!
 
 ---
 
