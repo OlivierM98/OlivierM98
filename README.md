@@ -1,12 +1,93 @@
-<h1 align="center">Hi 👋, I'm Olivier MARTIN</h1>
-<h3 align="center">I'm a developer in video game</h3>
+# 🎮 Junior Gameplay Programmer & AI Specialist | Unity/C# & Unreal Engine/C++
 
-- 🔭 I’m currently working on **school projects to develop my skills**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](TON_LIEN_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](TON_LIEN_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mart.oliver9@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/olivier martin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivier martin" height="30" width="40" /></a>
-</p>
+Passionate about **gameplay mechanics**, **AI behavior**, and **optimized code**, I'm a **Junior Gameplay Programmer** with hands-on experience in **Unity (C#)** and **Unreal Engine (C++)**. I love crafting immersive player experiences and solving technical challenges in game development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 **Skills & Expertise**
+### **Game Development**
+- **Engines**: Unity (C#), Unreal Engine (C++/Blueprints)
+- **Gameplay**: 3C (Character, Camera, Controls), AI (FSM, Behavior Trees), State Machines
+- **Tools**: Git, GitHub, Perforce (P4V), Debugging, Optimization
+- **Soft Skills**: Team collaboration, Agile/Scrum, Problem-solving, Communication
+
+### **Languages**
+- **French**: Native
+- **English**: Fluent (technical & professional)
+
+---
+
+## 🎓 **Education**
+### **Bachelor Game Tech & AI** | *Objectif 3D (Montpellier)*
+*2023 – 2026*
+- Specialized in **gameplay programming** and **AI** for video games.
+
+### **DUT Electrical Engineering & Industrial IT** | *University of Toulon*
+*2016 – 2019*
+- Focus on **energy systems**, **embedded programming**, and **sustainable development**.
+
+---
+
+## 💼 **Professional Experience**
+### **Technico-Commercial** | *Aircodis (Six-Fours-les-Plages)*
+*2020 – 2022*
+- Managed **client relationships** and **technical sales** in the aeronautics sector.
+
+### **Energy Efficiency Intern** | *SAVIEL (Saint-Herblain)*
+*2018 – 2019*
+- Developed **energy-saving solutions** for industrial systems.
+
+---
+
+## 🎮 **Featured Projects**
+### **🔫 Zombie Shooter (Unity/C#)**
+- **Solo project**: A **3rd-person zombie shooter** with AI enemies using **FSM** and **A* pathfinding**.
+- **Optimization**: Managed **100+ entities** without performance drops.
+- [![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=flat&logo=youtube)](LIEN_YOUTUBE_OU_GIF)
+
+### **🤖 Rise of Bahiu (Unreal Engine/C++)**
+- **Team project (7 months)**: A **dynamic racing/exploration game** with **AI-driven opponents** (3D camera integration).
+- **Role**: AI & Gameplay Programmer.
+- [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](LIEN_GITHUB)
+
+### **🎯 Overdose (Unreal Engine/C++)**
+- **Team project (2 months)**: A **multiplayer arena game** with **UI/UX feedback systems**.
+- **Role**: Gameplay & UI Programmer.
+- [![Play Demo](https://img.shields.io/badge/Play-Demo-blue?style=flat&logo=unrealengine)](LIEN_DEMO)
+
+---
+
+## 🛠 **Tools & Workflow**
+- **Version Control**: Git, GitHub, Perforce (P4V)
+- **Project Management**: Trello, Notion, Agile/Scrum
+- **Debugging**: Unity Profiler, Unreal Insights, Visual Studio Debugger
+
+---
+
+## 🎯 **What I’m Looking For**
+I’m seeking a **Junior Gameplay Programmer** or **AI Programmer** position in a **game studio** where I can:
+✅ Contribute to **innovative gameplay mechanics**
+✅ Work on **AI behaviors** (FSM, BT, pathfinding)
+✅ Optimize and **debug** game systems
+✅ Collaborate in a **passionate team**
+
+---
+
+## 📫 **Let’s Connect!**
+I’m open to **internships, collaborations, or job opportunities** in game development.
+📧 **Email**: [mart.oliver9@gmail.com](mailto:mart.oliver9@gmail.com)
+🔗 **LinkedIn**: [Your LinkedIn](TON_LIEN_LINKEDIN)
+🌐 **Portfolio**: [Your Portfolio](TON_LIEN_PORTFOLIO)
+
+---
+
+### 🎮 **Fun Fact**
+When I’m not coding, I’m **climbing rocks**, playing **cinema-themed board games**, or jamming on my **drums**!
+
+---
+
+⭐ **Star this repo if you like my work!** ⭐
