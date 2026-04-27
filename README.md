@@ -60,7 +60,7 @@ I’m open to **internships, collaborations, or job opportunities** in game deve
 
 📧 **Email**: [mart.oliver9@gmail.com](mailto:mart.oliver9@gmail.com)
 
-🔗 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/olivier-martin-5b327215b/)
+🔗 **LinkedIn**: [Olivier Martin](https://www.linkedin.com/in/olivier-martin-5b327215b/)
 
 ---
 
