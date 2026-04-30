@@ -22,7 +22,7 @@ Passionate about **gameplay mechanics**, **AI behavior**, and **optimized code**
 
 ## 🎮 **Featured Projects**
 ### **🔫 Zombie Shooter (Unity/C#)**
-- **Solo project**: A **3rd-person zombie shooter** with AI enemies using **FSM** and **A* pathfinding**.
+- **Solo project**: A **3rd-person zombie shooter** with AI enemies using **FSM** and **A star pathfinding**.
 - **Optimization**: Managed **100+ entities** without performance drops.
 
 ### **🤖 Rise of Bahiu (Unreal Engine/C++)**
