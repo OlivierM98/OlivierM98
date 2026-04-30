@@ -16,7 +16,7 @@ Passionate about **gameplay mechanics**, **AI behavior**, and **optimized code**
 
 ### **Languages**
 - **French**: Native
-- **English**: Fluent (technical & professional)
+- **English**: Fluent
 
 ---
 
